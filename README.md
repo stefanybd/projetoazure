@@ -1,5 +1,5 @@
 # projetoazure
-Projeto Azure
+
 Este projeto tem como objetivo prever as vendas com base nos gastos com marketing utilizando um modelo de regressão linear.
 Passos para a construção do modelo
 1. Coleta e Preparação dos Dados
