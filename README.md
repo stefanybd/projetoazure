@@ -41,7 +41,7 @@ Como Rodar o Código
     
 Execute o código:
 
-      python nome_do_arquivo.py
+      python projeto_azure.py
 
 O gráfico será exibido e o erro médio quadrado será mostrado no console.
 
